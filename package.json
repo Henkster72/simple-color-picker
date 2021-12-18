@@ -47,7 +47,7 @@
     "uvu": "^0.5.1"
   },
   "dependencies": {
-    "@types/insert-css": "^2.0.0",
+    "@types/insert-css": "^2.0.1",
     "insert-css": "^2.0.0"
   }
 }
